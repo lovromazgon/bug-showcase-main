@@ -1,0 +1,4 @@
+[submodule "bug-showcase-sub"]
+	path = bug-showcase-sub
+	url = https://github.com/lovromazgon/bug-showcase-sub
+	branch = master
